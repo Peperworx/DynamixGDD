@@ -3,6 +3,15 @@ plugins:
 remote_theme: vsoch/mkdocs-jekyll
 markdown: kramdown
 
+title: Project Dynamix GDD
+email: riley.j.wilton@gmail.com
+author: Riley Wilton
+descriotion: This document describes the framework, structure, and gameplay of project dynamix and its core systems.
+
+
+repo: "https://github.com/peperworx/dynamixgdd"
+github_user: "peperworx"
+github_repo: "dynamixgdd"
 
 defaults:
   - scope:

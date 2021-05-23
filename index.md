@@ -1,5 +1,7 @@
 ---
 layout: page
-title: Bio
+title: Dynamix GDD
 ---
-Yello!
+
+# Dynamix GDD
+
