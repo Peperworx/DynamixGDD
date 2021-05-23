@@ -1,2 +1,24 @@
+plugins:
+  - jekyll-remote-theme
 remote_theme: vsoch/mkdocs-jekyll
 markdown: kramdown
+
+
+defaults:
+  - scope:
+      path: "_docs"
+      type: "docs"
+    values:
+      layout: page
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "posts"
+      type: "posts"
+    values:
+      layout: "post"
