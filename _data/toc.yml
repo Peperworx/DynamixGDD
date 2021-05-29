@@ -1,0 +1,11 @@
+- title: "Codebase Specification"
+  url: "codebase_specification/"
+- title: "Components"
+  url: "components/"
+  children:
+    - title: "Movement System"
+      url: "components/movement_system"
+    - title: "Status System"
+      url: "components/status_system"
+    - title: "Inventory System"
+      url: "components/inventory_system"
