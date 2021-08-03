@@ -73,3 +73,8 @@ This module is closely tied to the character and to the next component. This com
 ### PeperworxAnimationComponent
 
 This module handles animation and meshes for the character. This module also allows the Weaponry component to play and modify animations, although it does not rely on it.
+
+
+## Module pluggability
+
+All of these modules can be disabled, enabled, replaced or updated without modifications or impact on the other modules.
